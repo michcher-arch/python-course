@@ -27,4 +27,4 @@
 - או באופן מקומי עם Jupyter Notebook
 
 דוגמה להפעלה ב-Colab:  
-[פתיחה של lesson1 ב-Colab](https://colab.research.google.com/github/USERNAME/python-course/blob/main/lesson1_intro.ipynb)
+[פתיחה של  03 Variables and Simple Data Types ב-Colab](https://colab.research.google.com/github/USERNAME/python-course/blob/main/ 03 Variables and Simple Data Types/ 03 Variables and Simple Data Types.ipynb)
